@@ -1,0 +1,138 @@
+style
+#satu{
+    max-width: 1000px; border: 1px solid black; margin: auto;
+}
+#dua{
+     display:list-item ; align-items: center; padding: 0px; border-bottom: 1px solid black
+}
+#tiga{
+   background-color: gainsboro
+}
+#empat{
+    margin-right: 50px; display: flex; list-style-type: none; gap: 10px
+}
+#lima{
+    display: flex; list-style-type: none; gap: 10px; color: rgb(5, 42, 255);
+}
+#enam{
+    margin-left: auto; display: flex; align-items: center; list-style-type: none; gap: 10px
+}
+#tujuh{
+    display: flex; gap: 10px; align-items: center
+}
+#delapan{
+    display: flex; gap: 20px; margin-top: 100px; padding: 10px
+}
+#sembilan{
+    width: 60%
+}
+#sepuluh{
+    display: flex; align-items: center; gap: 10px
+}
+#sebelas{
+    font-size: 23px; font-weight: bolder
+}
+#duabelas{
+    border-top: 1px solid rgb(0, 0, 0); border-bottom: 1px solid black; padding-left: 10px
+}
+#tigabelas{
+    list-style-type: none
+}
+#empatbelas{
+    display: flex
+}
+#limabelas{
+    list-style-type: none
+}
+#enambelas{
+    font-weight: bolder
+}
+#tujuhbelas{
+    color: rgb(5, 42, 255)
+}
+#delapanbelas{
+    list-style-type: none
+}
+#sembilanbelas{
+    font-weight: bolder
+}
+#duapuluh{
+    color: blue
+}
+#duapuluh{
+    color: rgb(5, 42, 255)
+}
+#duapuluhsatu{
+    display: flex
+}
+#duapuluhdua{
+    list-style-type: none
+}
+#duapuluhhtiga{
+    list-style-type: none
+}
+#duapuluhempat{
+    width: 300px; height: 300px; background-color: lightgray; padding: 35px; display: grid; align-items: center
+}
+#duapuluhlima{
+    width: 100%; padding: 10px 0; border-collapse: collapse
+}
+#duapuluhenam{
+    padding: 10px 0
+}
+#duapuluhtujuh{
+    padding: 10px 0
+}
+#duapuluhdelapan{
+    padding: 10px 0
+}
+#duapuluhsembilan{
+    border-top: 2px solid white; padding-left: 10px; padding-top: 10px
+}
+#tigapuluh{
+    border-top: 2px solid white
+}
+#tigapuluhsatu{
+    display: flex; gap: 15px; margin-bottom: 10px
+}
+#tigapuluhdua{
+    padding: 10px 0
+}
+#tigapuluhtiga{
+    border-top: 2px solid white; padding-left: 10px; padding-top: 10px
+}
+#tigapuluhempat{
+    border-top: 2px solid white; text-align: right; font-weight: bolder
+}
+#tigapuluhlima{
+    margin-top: 100px; border-top: 1px solid black; padding: 20px; display: grid; gap: 10px
+}
+#tigapuluhenam{
+    display: flex; gap: 10px
+}
+#tigapuluhtujuh{
+    margin-left: auto
+}
+#tigapuluhdelapan{
+    display: flex; gap: 5px
+}
+#tigapuluhsembilan{
+    display: flex; align-items: center; margin-left: auto; font-weight: bolder
+}
+#empatpuluh{
+    font-weight: bolder; height: 20px
+}
+#empatpuluhsatu{
+    background-color: rgb(131, 126, 126)
+}
+
+
+
+
+
+
+
+
+
+
+
